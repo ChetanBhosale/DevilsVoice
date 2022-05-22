@@ -1,0 +1,150 @@
+.top_container{
+    background-color: #d3fffb;
+    position: relative;
+    padding-top: 100px;
+}
+
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    
+}
+h1{
+    margin: 50px auto 0 auto;
+    width: 30%;
+    color: #5ebbbb;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.5rem;
+    line-height: 2;
+}
+.word{
+    font-size: 1.500rem;
+    color: #5ebbbb;
+    font-weight: normal;
+}
+.hello{
+    font-size: 35px;
+    color: #11999E;
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-size: xx-large;
+    
+}
+#my-photo{
+    width: 175px;
+    padding-top: 60px;
+}
+.para{
+    padding-bottom: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.my-skill{
+    
+    font-size: 35px;
+    color: #11999E;
+}
+.skill-images1{
+    width: 25%;
+    float: left;
+    padding: 30px;
+    padding-top:1%;
+}
+.skill-images2{
+    float: right;
+    width: 30% ;
+    height: 115px;
+    padding: 30px;
+    padding-top:1%;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #0b9296;
+    
+}
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    top:30px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 400px;
+    bottom: 300px;
+}
+.footer-link{
+    color: #11999E;
+}
+
+hr{
+                
+    
+    border-style: dotted none none ;
+    width: 5%;
+    height: 0px;
+    border-color: #EAF6F6;
+    border-width: 5px;
+}
+
+.contact-para{
+    width: 50%;
+    margin: 50px auto 100px auto;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #35a6a6;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: relative;
+    bottom: 45px;
+
+  }
+  
+  .btn:hover {
+    background: #1e6161;
+    text-decoration: none;
+  }
+  .bottom-container{
+      background-color: #1e6161;
+      padding: 30px;
+  }
+
+  .contact-me{
+      padding: 30px auto 60px auto;
+  }
+
+  a{
+      text-decoration: none;
+      color: #0a0d0d;
+      margin: 20px 20px 50px 20px;
+      font-family: 'Montserrat', sans-serif;
+  }
+  a:hover{
+    color: rgb(255, 246, 246);
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .last-text{
+      color: #d3fffb;
+  }
